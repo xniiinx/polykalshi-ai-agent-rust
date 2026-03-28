@@ -5,14 +5,9 @@ Focus: sports arbitrage, weather market exploitation, ultra-fast copy trading, m
 
 > (Integrates official Polymarket CLOB API: bots scan sportsbooks/weather APIs, compare vs market odds for 2-8% divergences, and execute hedged trades for guaranteed gains.)
 
-English | 中文（简体）| Русский | Deutsch
-
 ---
 <p align="center">
-    <a href="mailto:gego.levente83714@gmail.com">
-        <img src="https://img.shields.io/badge/Email-gego.levente83714@gmail.com-ef4444?style=flat&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://t.me/cccciridev">
+    <a href="https://t.me/xxninex">
         <img src="https://img.shields.io/badge/Telegram-cccciridev-2AABEE?style=flat&logo=telegram&logoColor=white" />
     </a>
 </p>
@@ -80,12 +75,6 @@ Command your arbitrage empire from chat—ultra-fast, zero-slippage, and visiona
 - 🛡️ **Arbitrage Hunter | 15-Min Market Bot**: Order book analysis + auto-hedges, sim/real modes, threshold buys, exits, wallet ops, logs & configs.  
   [Access Bot](https://t.me/poly5mbot)
 
-- 🎯 **Onsight Pro Copy Trader**: Instant wallet mirroring, no failures.  
-  [Access Bot](https://t.me/poly_copy_tg_bot)
-
-- 🚀 **Multi-Wallet Replicator Bot**: Scrapes/replicates top performers with sim modes.  
-  [Access Bot](https://t.me/poly_copy_prod_tg_bot)
-
 ### Screenshots & Demo
 - **Telegram UI**:  
   <p float="left">
@@ -93,10 +82,6 @@ Command your arbitrage empire from chat—ultra-fast, zero-slippage, and visiona
    <img width="260" height="789" alt="telegram bot-1" src="https://github.com/user-attachments/assets/cbe68dc3-939a-4856-8a82-8e59d5588b1c" />
    <img width="260" height="789" alt="telegram bot-2" src="https://github.com/user-attachments/assets/3810d21f-8eaa-4503-80ab-eaa54604cc46" />
 </p>
-
-- **Video Demo**:  
-
-  https://github.com/user-attachments/assets/2e462566-f4cc-45c3-a3b1-6aa7757b0f32
 
 ## ✨ Comprehensive Key Features (All Bots & Tools)
 
@@ -124,10 +109,9 @@ Unleash arbitrage dominance—these features turn inefficiencies into your perso
 
 ## 📞 Contact & Community
 
-- 📱 Telegram: [@cccciridev](https://t.me/cccciridev) — support, custom arbs, updates  
-- 🐦 X: [@cccciridev](https://x.com/cccciridev)  
-- 📹 YouTube: [@cccciridev](https://youtube.com/@cccciridev)  
-- 📧 Email: [gego.levente83714@gmail.com](mailto:gego.levente83714@gmail.com)  
+- 📱 Telegram: [@cccciridev](https://t.me/xxninex) — support, custom arbs, updates  
+- 🐦 X: [@cccciridev](https://x.com/xxniiinxx)  
+- 📹 YouTube: [@cccciridev](https://youtube.com/@xniiinx)  
 
 ⭐ Star/fork the repo. Contributions welcome—especially 2026 arb adaptations, new leagues, or weather enhancements.
 
