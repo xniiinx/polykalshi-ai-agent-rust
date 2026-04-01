@@ -8,7 +8,7 @@ Focus: sports arbitrage, weather market exploitation, ultra-fast copy trading, m
 ---
 <p align="center">
     <a href="https://t.me/xxninex">
-        <img src="https://img.shields.io/badge/Telegram-cccciridev-2AABEE?style=flat&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram-xxninex-2AABEE?style=flat&logo=telegram&logoColor=white" />
     </a>
 </p>
 
