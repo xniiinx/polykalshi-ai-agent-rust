@@ -10,6 +10,9 @@ Focus: sports arbitrage, weather market exploitation, ultra-fast copy trading, m
     <a href="https://t.me/xxninex">
         <img src="https://img.shields.io/badge/Telegram-xxninex-2AABEE?style=flat&logo=telegram&logoColor=white" />
     </a>
+        <a href="https://t.me/soulcrancerdev">
+        <img src="https://img.shields.io/badge/Telegram-soulcrancerdev-2AABEE?style=flat&logo=telegram&logoColor=white" />
+    </a>
 </p>
 
 ![image (27)](https://github.com/user-attachments/assets/0b9e1217-8820-46d5-9d2f-0eba489c3215)
